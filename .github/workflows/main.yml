@@ -20,4 +20,4 @@ jobs:
         with:
           context: DockerFileFolder/
           push: true
-          tags: 422nik/NIkhilDhande-w11-assignment
+          tags: 422nik/nikhildhande-w11-assignment
