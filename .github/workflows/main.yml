@@ -18,6 +18,6 @@ jobs:
       - name: Build and push Docker image
         uses: docker/build-push-action@v4
         with:
-          context: Microservices/
+          context: 422nik/w11-assignment/
           push: true
           tags: 422nik/nikhildhande-w11-assignment
